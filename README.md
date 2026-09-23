@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vedant Barve 👋</h1>
+<h1 align="center">Hi, I'm Vedant Parve 👋</h1>
 
 <p align="center">
   🍔 I eat a lot · 🏋️ I work out a lot · 🐕 I stalk golden retrievers on Instagram
@@ -34,6 +34,12 @@ I'm passionate about solving real-life problems with technology — building thi
 **Workflow & Orchestration**
 ![Temporal](https://img.shields.io/badge/-Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant-barve&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-barve&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
 ### 🔗 Connect With Me
 
